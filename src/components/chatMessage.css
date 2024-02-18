@@ -1,0 +1,12 @@
+.justify-content-end {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-top: 5px;
+}
+.ttt {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-top: 5px;
+}
